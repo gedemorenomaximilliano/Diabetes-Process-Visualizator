@@ -2,7 +2,7 @@
 
 Aplikasi web interaktif 3D untuk memvisualisasikan dan mengedukasi mekanisme fisiologis pra-diabetes dan diabetes tipe 2 pada organ sistem pencernaan manusia.
 
-🔗 **Live Website**: [https://gedemorenomaximilliano.github.io/Diabeter-Process-Visualizator/](https://gedemorenomaximilliano.github.io/Diabeter-Process-Visualizator/)
+🔗 **Live Website**: [https://gedemorenomaximilliano.github.io/Diabetes-Process-Visualizator/](https://gedemorenomaximilliano.github.io/Diabetes-Process-Visualizator/)
 
 ---
 
@@ -31,8 +31,8 @@ Aplikasi web interaktif 3D untuk memvisualisasikan dan mengedukasi mekanisme fis
 
 ```bash
 # Clone repository
-git clone https://github.com/gedemorenomaximilliano/Diabeter-Process-Visualizator.git
-cd Diabeter-Process-Visualizator
+git clone https://github.com/gedemorenomaximilliano/Diabetes-Process-Visualizator.git
+cd Diabetes-Process-Visualizator
 
 # Install dependensi
 npm install
