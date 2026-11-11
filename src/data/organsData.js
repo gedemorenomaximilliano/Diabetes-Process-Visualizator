@@ -103,12 +103,12 @@ export const REFERENCE_POINTS = [
     nameEn: 'Large Intestine',
     badgeText: 'Langkah 4: Fermentasi dan Mikrobiota Usus',
     color: '#8b5cf6',
-    pinPosition: [0.55, -0.85, 0.35],
-    cameraLookAt: [0.45, -0.80, 0.0],
-    cameraPosition: [0.50, -0.80, 1.7],
-    unexplodedPinPosition: [-0.25, -0.85, 0.32],
-    unexplodedCameraLookAt: [-0.25, -0.85, 0.0],
-    unexplodedCameraPosition: [-0.25, -0.82, 1.7],
+    pinPosition: [0.42, -0.92, 0.24],
+    cameraLookAt: [0.60, -0.90, 0.0],
+    cameraPosition: [0.60, -0.90, 1.8],
+    unexplodedPinPosition: [-0.52, -0.86, 0.24],
+    unexplodedCameraLookAt: [-0.35, -0.86, 0.0],
+    unexplodedCameraPosition: [-0.35, -0.86, 1.8],
     mechanism:
       'Sisa karbohidrat dan serat yang tidak tercerna difermentasi oleh bakteri baik menjadi asam lemak rantai pendek (misalnya butirat dan propionat). Zat ini meningkatkan sensitivitas insulin dan merangsang hormon GLP-1, serta menjaga dinding usus tetap sehat dan mendukung produksi insulin.',
     diabetes: [
