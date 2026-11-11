@@ -18,14 +18,14 @@ export default function TopNav() {
           <div className="w-9 h-9 rounded-xl bg-gradient-to-tr from-blue-600 via-cyan-500 to-indigo-600 flex items-center justify-center text-white shadow-lg shadow-cyan-500/30">
             <Activity size={20} />
           </div>
-          <div>
-            <h1 className="text-sm sm:text-base font-extrabold tracking-tight text-white flex items-center gap-2">
-              <span>GLUCOSE 3D</span>
-              <span className="text-[10px] font-semibold px-2 py-0.5 rounded-full bg-cyan-500/20 text-cyan-300 border border-cyan-500/30">
+          <div className="min-w-0">
+            <h1 className="text-xs sm:text-base font-extrabold tracking-tight text-white flex items-center gap-2">
+              <span className="truncate">Diabetes Process Visualizator</span>
+              <span className="text-[10px] font-semibold px-2 py-0.5 rounded-full bg-cyan-500/20 text-cyan-300 border border-cyan-500/30 hidden md:inline-flex shrink-0">
                 Visualisasi Medis Interaktif
               </span>
             </h1>
-            <p className="text-[11px] text-slate-400 font-medium hidden sm:block">
+            <p className="text-[11px] text-slate-400 font-medium hidden sm:block truncate">
               Simulasi 3D Cara Kerja & Anatomi Penyerapan Glukosa pada Diabetes Tipe 2
             </p>
           </div>

@@ -1,4 +1,4 @@
-# GLUCOSE 3D - Anatomi & Mekanisme Kerja Diabetes
+# Diabetes Process Visualizator - Anatomi & Mekanisme Kerja Diabetes
 
 Aplikasi web interaktif 3D untuk memvisualisasikan dan mengedukasi mekanisme fisiologis pra-diabetes dan diabetes tipe 2 pada organ sistem pencernaan manusia.
 
@@ -10,10 +10,10 @@ Aplikasi web interaktif 3D untuk memvisualisasikan dan mengedukasi mekanisme fis
 
 - **Model Anatomi 3D Realistis**: Sistem pencernaan manusia lengkap dengan tekstur PBR (Mulut, Lambung, Pankreas, Usus Halus, Usus Besar, dan Hati).
 - **Siluet Holografis Tubuh Manusia**: Siluet tubuh 3D transparan yang membungkus organ dalam mode *Utuh*.
-- **Mode Anatomi Utuh & Terurai (Exploded View)**: Transisi mulus antara organ tersusun bersama dan organ terpisah untuk eksplorasi detail.
+- **Mode Anatomi Utuh & Terurai (Exploded View)**: Transisi mulus antara organ tersusun bersama dan organ terpisah untuk eksplorasi detail dengan pembingkaian kamera presisi.
 - **Pin Interaktif & Navigasi**: Pin penanda 3D dinamis dengan label pintar dan tur terpandu (*Guided Tour*).
 - **Konten Edukasi Medis**: Penjelasan mekanisme normal dan kondisi diabetes sesuai materi medis terverifikasi.
-- **Desain Responsif Desktop & HP**: Tampilan mobile-first yang dioptimalkan untuk berbagai ukuran layar smartphone.
+- **Desain Responsif Desktop & HP**: Tampilan mobile-first yang dioptimalkan untuk berbagai ukuran layar smartphone (dock navigasi bawah ringkas, kartu organ pintar, dan modal materi yang proporsional).
 
 ---
 
@@ -30,6 +30,10 @@ Aplikasi web interaktif 3D untuk memvisualisasikan dan mengedukasi mekanisme fis
 ## 🚀 Menjalankan Secara Lokal
 
 ```bash
+# Clone repository
+git clone https://github.com/gedemorenomaximilliano/Diabeter-Process-Visualizator.git
+cd Diabeter-Process-Visualizator
+
 # Install dependensi
 npm install
 
